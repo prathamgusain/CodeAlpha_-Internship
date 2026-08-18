@@ -151,7 +151,7 @@ After execution, the following files are automatically created:
 
 ## 👨‍💻 Author
 
-**Saksham**
+**Pratham**
 
 CODSOFT Data Science Internship – Task 4
 
